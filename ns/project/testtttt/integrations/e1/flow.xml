@@ -9,7 +9,7 @@
   <COMMENT></COMMENT>
 </INVOKE>
 
-<INVOKE NAME="Date" SERVICE="pub.date:calculateDateDifference">
+<INVOKE NAME="Date" SERVICE="pub.date:calculateDateDifference" DISABLED="true">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>

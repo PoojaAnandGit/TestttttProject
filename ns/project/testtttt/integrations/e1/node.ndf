@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">flowadmin</value>
-    <value name="lastModifiedDate">1723094566229</value>
+    <value name="lastModifiedDate">1723094696292</value>
     <value name="displayName">e1</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
