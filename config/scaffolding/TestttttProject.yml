@@ -8,14 +8,10 @@ packages:
   gitUsername: PoojaAnandGit
   gitBranch: main
 services:
-- serviceName: project.testtttt.integrations:e1
+- serviceName: project.testtttt.integrations:e2
   packages:
   - name: TestttttProject
     version: "1.0"
-- serviceName: pub.date:getCurrentDate
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.1081
 - serviceName: pub.date:calculateDateDifference
   packages:
   - name: WmPublic
